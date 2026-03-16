@@ -1,3 +1,4 @@
+
 * {
   box-sizing: border-box;
 }
@@ -12,4 +13,17 @@ body {
 main {
   padding: 1rem;
 }
+
+
+
+:root {
+--blue:        #3c42c4;
+--purple:      #6e51c8;
+--purple2:     #a065cd;
+--purple3:     #ce79d2;
+--lightpurple: #d68fb8;
+--cream:       #f4dfbe;
+
+}
+
 
